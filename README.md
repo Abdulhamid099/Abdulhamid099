@@ -8,6 +8,3 @@
 
 ## 📂 Featured Projects
 - [Training-Model](https://github.com/Abdulhamid099/Training-Model): AI model training experiments.
-- More coming soon...
-
-📫 Reach me: [LinkedIn](Abdulhamid Alsabagh) | [Email](abdo.alsabagh2003@icloud.com)
