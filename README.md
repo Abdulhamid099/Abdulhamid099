@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdulhamid
-💻 Software Engineer | 🚀 Passionate about AI, Web Development & Problem Solving  
+💻 Computer Science student | 🚀 Passionate about AI, Web Development & Problem Solving  
 
 ## 🔧 Tech Stack
 - Languages: Python, JavaScript, C++
